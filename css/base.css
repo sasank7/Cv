@@ -384,7 +384,7 @@ iframe{
 	.pt-70{padding-top:70px !important;}
 	.pb-70{padding-bottom:70px !important;}
 	.pt-80{padding-top:80px !important;}
-	.pb-80{padding-bottom:80px !important;}
+	.pb-80{padding-bottom:0px !important;}
 	.pt-100{padding-top:100px !important;}
 	.pb-100{padding-bottom:100px !important;}
 	.pt-160{padding-top:160px !important;}
@@ -417,7 +417,8 @@ iframe{
 	.mb-150{margin-bottom:150px !important;}
 	.mt-200{margin-top:200px !important;}
 	.mb-200{margin-bottom:200px !important;}
-	.t-center {text-align: center;}
+	.t-center {text-align: center;
+	margin-top: 2%;}
 	.t-left {text-align: left;}
 	.t-right {text-align: right;}
 	.bg-grey{background:#f7f7f7;}
